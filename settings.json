@@ -85,7 +85,4 @@
     "respond": true
   }
 }
-const bot = mineflayer.createBot({
-  host: 'mapleffa.playwithbao.com',
-  username: 'AFKBot'
-})
+bot.acceptResourcePack()
