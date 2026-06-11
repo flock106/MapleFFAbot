@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mapleffa.playwithbao.com",
-    "port": 33876,
+    "ip": "mapleinvites.playwithbao.com",
+    "port": 48765,
     "version": "",
     "try-creative": false
   },
